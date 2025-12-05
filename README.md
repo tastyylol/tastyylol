@@ -1,3 +1,12 @@
+
+```ascii
+████████╗ █████╗ ███████╗████████╗██╗   ██╗
+╚══██╔══╝██╔══██╗██╔════╝╚══██╔══╝╚██╗ ██╔╝
+   ██║   ███████║███████╗   ██║    ╚████╔╝ 
+   ██║   ██╔══██║╚════██║   ██║     ╚██╔╝  
+   ██║   ██║  ██║███████║   ██║      ██║   
+   ╚═╝   ╚═╝  ╚═╝╚══════╝   ╚═╝      ╚═╝   
+
 ### 🚀 O que eu mais gosto de fazer
 - Front-end moderno (React, Next.js, Tailwind)
 - Back-end robusto (Node.js, NestJS, Python/FastAPI)
@@ -13,9 +22,4 @@
 ![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=flat&logo=hashcat&logoColor=white)
 ![BloodHound](https://img.shields.io/badge/BloodHound-000000?style=flat&logo=bloodhound&logoColor=red)
 
-### 🌟 Vamos nos conectar?
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jfellype05@gmail.com)
-
 > *"Código é poesia."* — Eu provavelmente
-
-✨ Aberto a colaborações, freelas e novas amizades! Me manda um oi :)
