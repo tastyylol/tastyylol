@@ -52,7 +52,7 @@
 ### ▒▒ EXTRA
 ![Facebook](https://img.shields.io/badge/Facebook-2.1M_contas_BR_dumped_%2B_phishing_kit-blue?style=flat-square&logo=facebook)
 ![Instagram](https://img.shields.io/badge/Instagram-420k_followers_farm_%2B_credential_stuffing-ff69b4?style=flat-square&logo=instagram)
-![Termo](https://img.shields.io/badge/Termo.app-cheat_engine_%2B_top_10_di%C3%A1rio_l%C3%ADder-green?style=flat-square&logo=firefox)
+![Termo](https://img.shields.io/badge/Term.ooo-database_%2B_top_10_di%C3%A1rio_l%C3%ADder-green?style=flat-square&logo=firefox)
 ![Prefeitura RJ](https://img.shields.io/badge/Prefeitura_Rio-7_portais_injetados_%2B_2_RCE_critical-red?style=flat-square&logo=gov.br)
 ![C%C3%A2mara Municipal RJ](https://img.shields.io/badge/C%C3%A2mara_Municipal-di%C3%A1rias_publicadas_no_Telegram-yellow?style=flat-square)
 ![SEDUC RJ](https://img.shields.io/badge/SEDUC_RJ-notas_do_ENEM_%22ajustadas%22_pra_clientela-blueviolet?style=flat-square)
@@ -61,5 +61,7 @@
 ![M%C3%A9tro Rio](https://img.shields.io/badge/Metr%C3%B4_Rio-bilhete_%C3%BAnico_cracker_2025-9cf?style=flat-square)
 
 ![Doxbin Vibes](https://i.imgur.com/7I1xfvp.png)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=roboto&pause=1000&color=000000&random=true&width=435&lines=TASTYYLOL+WAS+HERE..." alt="Typing SVG" /></a>
 
 > *"Tudo isso não passa de Ficção"*
